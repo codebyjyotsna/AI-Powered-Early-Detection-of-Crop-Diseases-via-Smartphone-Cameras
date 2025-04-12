@@ -1,0 +1,1 @@
+# AI-Powered-Early-Detection-of-Crop-Diseases-via-Smartphone-Cameras

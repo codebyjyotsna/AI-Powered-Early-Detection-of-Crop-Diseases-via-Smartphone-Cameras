@@ -1,0 +1,8 @@
+- project-root/
+  - /data/              # Contains dataset-related files
+  - /models/            # Trained models and scripts
+  - /api/               # Backend API
+  - /app/               # Frontend app (web/mobile)
+  - /docs/              # Documentation
+  - requirements.txt    # Python dependencies
+  - README.md           # Project overview
